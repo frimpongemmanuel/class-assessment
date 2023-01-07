@@ -1,0 +1,26 @@
+.navbar{
+	margin-top: 1rem;
+	margin-left: 3rem;
+}
+ul{
+	margin-left: 4rem;
+	padding-top: 1rem;
+}
+
+.cont2{
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+}
+
+.row2{
+	background-color: black;
+	color: white;
+	height: 190px;
+}
+.row3{
+	margin-top: 2rem;
+}
+
+.btn2{
+	margin-top: 1.5rem;
+}

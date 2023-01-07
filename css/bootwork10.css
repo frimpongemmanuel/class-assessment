@@ -1,0 +1,36 @@
+ .navbar{
+	margin-top: 1rem;
+	margin-left: 3rem;
+}
+
+ul{
+	margin-left: 4rem;
+	padding-top: 1rem;
+}
+
+
+.footer{
+	margin-bottom: 5rem;
+}
+
+.cont1{
+	margin-top: 2rem;
+
+
+}
+
+.row1{
+	margin-top: 1.5rem;
+}
+
+.plans{
+	color: white;
+	background-color: blue;
+	margin-left: 5rem;
+	width: 80%;
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+	height: 300px;
+	padding-top: 4rem;
+	padding-left: 2rem;
+}

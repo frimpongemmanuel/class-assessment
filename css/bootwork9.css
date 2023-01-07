@@ -1,0 +1,49 @@
+.navbar{
+	margin-top: 1rem;
+	margin-left: 3rem;
+}
+
+ul{
+	margin-left: 4rem;
+	padding-top: 1rem;
+}
+
+.cont1{
+margin-top: 2rem;
+margin-bottom:2rem;
+}
+
+
+.colom1{
+	padding-top: 2rem;
+}
+
+.row1{
+	
+}
+
+.row2{
+	margin-top: 2rem;
+}
+.row2 span {
+	color: blue;
+
+}
+
+.row3{
+
+
+}
+ .cont2{
+ 	background-color:#fbf2f2;
+ 	height: 320px;
+ 	padding-top: 1rem;
+ }
+
+
+ .footer{
+ 	margin-top:2rem ;
+ 	margin-bottom: 3rem;
+ 	width: 60%;
+ 	margin-left: 13rem;
+ }

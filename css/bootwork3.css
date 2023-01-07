@@ -1,0 +1,17 @@
+.navbar{
+	background-color: darkred;
+	
+}
+
+
+.jumbotron{
+	background-color: grey;
+}
+
+.footer{
+	background-color: grey;
+	margin-top: 3rem;
+	padding-top: 1rem;
+	border-top-left-radius: 1rem;
+	border-top-right-radius: 1rem;
+}

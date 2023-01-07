@@ -1,0 +1,22 @@
+.navbar{
+	background-color: grey;
+
+}
+
+.jumbotron{
+	background-image: url(https://images.unsplash.com/photo-1580906853149-f82f7601d205?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDN8fG5pa2UlMjBzaG9lc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60);
+	color:hsl(0, 100%, 30%);;
+	height: 350px;
+}
+
+.Card1{
+	margin-bottom: 1.5rem;
+}
+
+.footer{
+	 background-image: linear-gradient(to bottom right, blue, yellow);
+	 margin-top: 1.4rem;
+	 border-top-left-radius:0.7rem ;
+	 border-bottom-right-radius:0.7rem ;
+	 color: white;
+}
